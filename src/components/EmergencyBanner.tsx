@@ -6,7 +6,7 @@ export const EmergencyBanner: FC = () => {
     <section className="bg-purple-100 border-b border-purple-200 py-4 sm:py-6">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Modern Logo Banner */}
-        <div className="relative w-full max-w-6xl rounded-3xl overflow-hidden border border-purple-500/25 bg-gradient-to-r from-purple-950 via-slate-900 to-teal-950 shadow-[0_12px_28px_rgba(76,29,149,0.32)] group">
+        <div className="relative mx-auto w-full max-w-lg rounded-3xl overflow-hidden border border-purple-500/25 bg-gradient-to-r from-purple-950 via-slate-900 to-teal-950 shadow-[0_12px_28px_rgba(76,29,149,0.32)] group">
           <img
             src="/logo.jpg"
             alt="WNY Missing & Unidentified Persons"
